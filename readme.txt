@@ -2,4 +2,4 @@ hello world!!
 github desktop使ってみてる
 pushできない？
 
-pull riquestよくわからん
+pull riquestってなに
